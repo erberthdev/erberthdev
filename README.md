@@ -2,9 +2,13 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Cybersecurity;Linux+%7C+Networking;Software+Development;Building+and+breaking+systems"></div>---
 
-"> whoami"
 
-ERBERTHDEV
+
+## > Explore my profile through an interactive terminal.
+
+[![Open Terminal](https://img.shields.io/badge/OPEN-INTERACTIVE_TERMINAL-00ff88?style=for-the-badge&logo=gnubash&logoColor=black)](https://erberthdev.github.io)
+
+## ERBERTHDEV
 ├── Cybersecurity
 ├── Linux
 ├── Networking
@@ -18,11 +22,11 @@ development through practical projects.
 
 ---
 
-"> technologies"
+## "> technologies"
 
 <div align="center"><img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,flask,js,html,css,arduino,docker"></div>---
 
-"> projects"
+## "> projects"
 
 Web-terminal-scifi
 
@@ -30,13 +34,9 @@ Terminal web-based with a futuristic interface and system interaction.
 
 Stack: Flask · Python · JavaScript · HTML · CSS · Linux
 
-EPFAM
-
 Web application focused on student/academic management.
 
 Stack: Flask · SQLAlchemy · SQLite · HTMX · JavaScript
-
-Tracker
 
 Project focused on tracking and data organization.
 
@@ -49,19 +49,19 @@ Linux, networking, cybersecurity and automation.
 
 ---
 
-"> github_stats"
+## "> github_stats"
 
 <div align="center"><img height="180" src="https://github-readme-stats.vercel.app/api?username=erberthdev&show_icons=true&theme=dark&hide_border=true&count_private=true"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erberthdev&layout=compact&theme=dark&hide_border=true"></div>---
 
-"> activity"
+## "> activity"
 
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=erberthdev&theme=dark&hide_border=true"></div>---
 
-"> contribution_graph"
+## "> contribution_graph"
 
 <div align="center"><img src="https://raw.githubusercontent.com/erberthdev/erberthdev/output/github-contribution-grid-snake.svg" alt="Contribution Snake"></div>---
 
-"> currently_learning"
+## "> currently_learning"
 
 [+] Cybersecurity
 [+] Networking
