@@ -6,7 +6,7 @@
 
 ## > Explore my profile through an interactive terminal.
 
-[![Open Terminal](https://img.shields.io/badge/OPEN-INTERACTIVE_TERMINAL-00ff88?style=for-the-badge&logo=gnubash&logoColor=black)](https://erberthdev.github.io)
+[![biografia](https://img.shields.io/badge/OPEN-INTERACTIVE_TERMINAL-00ff88?style=for-the-badge&logo=gnubash&logoColor=black)](https://erberthdev.github.io)
 
 ## ERBERTHDEV
 ├── Cybersecurity
